@@ -1,0 +1,9 @@
+.input-text.full-width {
+    display: block;
+    width: 100%;
+}
+
+.column-order_title .edit {
+	word-wrap: normal !important;
+    white-space: nowrap !important;
+}

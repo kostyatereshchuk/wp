@@ -1,0 +1,552 @@
+00:06:30 | Connecting to pulmoneshipments@gmail.com ...
+01:12:41 | Connecting to pulmoneshipments@gmail.com ...
+02:01:13 | Connecting to pulmoneshipments@gmail.com ...
+03:07:28 | Connecting to pulmoneshipments@gmail.com ...
+04:09:56 | Connecting to pulmoneshipments@gmail.com ...
+05:11:33 | Connecting to pulmoneshipments@gmail.com ...
+06:00:21 | Connecting to pulmoneshipments@gmail.com ...
+07:10:40 | Connecting to pulmoneshipments@gmail.com ...
+08:02:27 | Connecting to pulmoneshipments@gmail.com ...
+09:11:43 | Connecting to pulmoneshipments@gmail.com ...
+10:01:27 | Connecting to pulmoneshipments@gmail.com ...
+11:07:11 | Connecting to pulmoneshipments@gmail.com ...
+12:19:12 | Message to dropshipper has been sent. | Order #21178
+13:00:39 | Connecting to pulmoneshipments@gmail.com ...
+13:00:40 | Email number:2738
+13:00:40 | Email number:2737
+13:00:40 | Email number:2736
+13:00:40 | Email number:2735
+13:00:41 | Email number:2734
+13:00:41 | Email number:2733
+13:00:41 | Email number:2732
+13:00:41 | Email number:2731
+13:00:41 | Email number:2730
+13:00:41 | Email number:2729
+13:00:41 | Email number:2728
+13:00:41 | Email number:2727
+13:00:42 | Email number:2726
+13:00:42 | Email number:2725
+13:00:42 | Email number:2724
+13:00:42 | Email number:2723
+13:00:42 | Email number:2722
+13:00:42 | Email number:2721
+13:00:42 | Email number:2720
+13:00:42 | Email number:2719
+13:00:42 | Email number:2718
+13:00:43 | Email number:2717
+13:00:43 | Email number:2716
+13:00:43 | Email number:2715
+13:00:43 | Email number:2714
+13:00:43 | Email number:2713
+13:00:43 | Email number:2712
+13:00:43 | Email number:2711
+13:00:43 | Email number:2710
+13:00:44 | Email number:2709
+13:00:44 | Email number:2708
+13:00:44 | Email number:2707
+13:00:44 | Email number:2706
+13:00:44 | Email number:2705
+13:00:44 | Email number:2704
+13:00:44 | Email number:2703
+13:00:45 | Email number:2702
+13:00:45 | Email number:2701
+13:00:45 | Email number:2700
+13:00:45 | Email number:2699
+13:00:45 | Email number:2698
+13:00:45 | Email number:2697
+13:00:45 | Email number:2696
+13:00:45 | Email number:2695
+13:00:45 | Email number:2694
+13:00:45 | Email number:2693
+13:00:45 | Email number:2692
+13:00:45 | Email number:2691
+14:00:44 | Connecting to pulmoneshipments@gmail.com ...
+14:00:51 | Data:Array
+(
+    [20273] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368297681
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367954463
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367662279
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+        )
+
+    [20269] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367076135
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369098724
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+        )
+
+    [20270] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367961446
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367647027
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367892431
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [3] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368310058
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+        )
+
+    [20272] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367695305
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368156690
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+        )
+
+    [20271] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369154261
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+        )
+
+    [20254] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367367919
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367909708
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367987099
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+            [3] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369337724
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+        )
+
+    [20253] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368370896
+                    [scheduled_delivery_date] => 2019-08-27
+                )
+
+        )
+
+    [20252] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368715255
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368894642
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368273634
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+        )
+
+    [20251] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367118447
+                    [scheduled_delivery_date] => 2019-08-28
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367951260
+                    [scheduled_delivery_date] => 2019-08-28
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368187059
+                    [scheduled_delivery_date] => 2019-08-28
+                )
+
+        )
+
+    [20250] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369987077
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+        )
+
+)
+
+15:01:44 | Connecting to pulmoneshipments@gmail.com ...
+15:01:51 | Data:Array
+(
+    [20273] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368297681
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367954463
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367662279
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+        )
+
+    [20269] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367076135
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369098724
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+        )
+
+    [20270] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367961446
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367647027
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367892431
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+            [3] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368310058
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+        )
+
+    [20272] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367695305
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368156690
+                    [scheduled_delivery_date] => 2019-09-04
+                )
+
+        )
+
+    [20271] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369154261
+                    [scheduled_delivery_date] => 2019-08-30
+                )
+
+        )
+
+    [20254] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367367919
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367909708
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367987099
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+            [3] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369337724
+                    [scheduled_delivery_date] => 2019-09-03
+                )
+
+        )
+
+    [20253] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368370896
+                    [scheduled_delivery_date] => 2019-08-27
+                )
+
+        )
+
+    [20252] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368715255
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368894642
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368273634
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+        )
+
+    [20251] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367118447
+                    [scheduled_delivery_date] => 2019-08-28
+                )
+
+            [1] => Array
+                (
+                    [tracking_number] => 1Z8V886X0367951260
+                    [scheduled_delivery_date] => 2019-08-28
+                )
+
+            [2] => Array
+                (
+                    [tracking_number] => 1Z8V886X0368187059
+                    [scheduled_delivery_date] => 2019-08-28
+                )
+
+        )
+
+    [20250] => Array
+        (
+            [0] => Array
+                (
+                    [tracking_number] => 1Z8V886X0369987077
+                    [scheduled_delivery_date] => 2019-08-23
+                )
+
+        )
+
+)
+
+15:54:48 | Connecting to pulmoneshipments@gmail.com ...
+15:55:15 | Connecting to pulmoneshipments@gmail.com ...
+15:57:48 | Connecting to pulmoneshipments@gmail.com ...
+15:57:54 | Updated orders count: 0
+15:57:55 | Connecting to pulmoneshipments@gmail.com ...
+15:58:01 | Updated orders count: 0
+15:58:39 | Connecting to pulmoneshipments@gmail.com ...
+15:58:44 | Updated orders count: 0
+15:59:38 | Connecting to pulmoneshipments@gmail.com ...
+16:00:15 | Connecting to pulmoneshipments@gmail.com ...
+16:01:08 | Connecting to pulmoneshipments@gmail.com ...
+16:01:09 | Connecting to pulmoneshipments@gmail.com ...
+16:01:15 | Updated orders count: 0
+16:01:16 | Updated orders count: 0
+16:01:43 | Connecting to pulmoneshipments@gmail.com ...
+16:01:49 | Updated orders count: 0
+16:02:26 | Connecting to pulmoneshipments@gmail.com ...
+16:02:32 | Updated orders count: 0
+16:04:50 | Connecting to pulmoneshipments@gmail.com ...
+16:05:18 | Connecting to pulmoneshipments@gmail.com ...
+16:05:42 | Connecting to pulmoneshipments@gmail.com ...
+16:06:43 | Connecting to pulmoneshipments@gmail.com ...
+16:06:49 | Updated orders count: 0
+16:07:25 | Connecting to pulmoneshipments@gmail.com ...
+16:07:31 | Updated orders count: 0
+16:08:08 | Connecting to pulmoneshipments@gmail.com ...
+16:08:14 | Updated orders count: 0
+16:09:07 | Connecting to pulmoneshipments@gmail.com ...
+16:10:01 | Connecting to pulmoneshipments@gmail.com ...
+16:10:37 | Connecting to pulmoneshipments@gmail.com ...
+16:10:48 | Connecting to pulmoneshipments@gmail.com ...
+16:11:19 | Connecting to pulmoneshipments@gmail.com ...
+16:11:30 | Connecting to pulmoneshipments@gmail.com ...
+16:12:15 | Connecting to pulmoneshipments@gmail.com ...
+16:12:22 | Updated orders count: 0
+16:13:10 | Connecting to pulmoneshipments@gmail.com ...
+16:13:15 | Updated orders count: 0
+16:13:40 | Connecting to pulmoneshipments@gmail.com ...
+16:13:45 | Updated orders count: 0
+16:15:10 | Connecting to pulmoneshipments@gmail.com ...
+16:19:06 | Connecting to pulmoneshipments@gmail.com ...
+16:19:12 | Order #20273 | tracking_number: 1Z8V886X0368297681 | scheduled_delivery_date: 2019-08-30
+16:19:12 | Order #20273 | tracking_number: 1Z8V886X0367954463 | scheduled_delivery_date: 2019-08-30
+16:19:12 | Order #20273 | tracking_number: 1Z8V886X0367662279 | scheduled_delivery_date: 2019-08-30
+16:19:12 | Update tracking data | Order #20273 | dropshipper_tracking_numbers = 1Z8V886X0368297681, 1Z8V886X0367954463, 1Z8V886X0367662279
+16:19:15 | Updated order #20273 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20273
+16:19:15 | Order #20269 | tracking_number: 1Z8V886X0367076135 | scheduled_delivery_date: 2019-09-04
+16:19:15 | Order #20269 | tracking_number: 1Z8V886X0369098724 | scheduled_delivery_date: 2019-09-04
+16:19:15 | Update tracking data | Order #20269 | dropshipper_tracking_numbers = 1Z8V886X0367076135, 1Z8V886X0369098724
+16:19:17 | Updated order #20269 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20269
+16:19:17 | Order #20270 | tracking_number: 1Z8V886X0367961446 | scheduled_delivery_date: 2019-08-30
+16:19:17 | Order #20270 | tracking_number: 1Z8V886X0367647027 | scheduled_delivery_date: 2019-08-30
+16:19:17 | Order #20270 | tracking_number: 1Z8V886X0367892431 | scheduled_delivery_date: 2019-08-30
+16:19:17 | Order #20270 | tracking_number: 1Z8V886X0368310058 | scheduled_delivery_date: 2019-08-30
+16:19:17 | Update tracking data | Order #20270 | dropshipper_tracking_numbers = 1Z8V886X0367961446, 1Z8V886X0367647027, 1Z8V886X0367892431, 1Z8V886X0368310058
+16:19:19 | Updated order #20270 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20270
+16:19:19 | Order #20272 | tracking_number: 1Z8V886X0367695305 | scheduled_delivery_date: 2019-09-04
+16:19:19 | Order #20272 | tracking_number: 1Z8V886X0368156690 | scheduled_delivery_date: 2019-09-04
+16:19:19 | Update tracking data | Order #20272 | dropshipper_tracking_numbers = 1Z8V886X0367695305, 1Z8V886X0368156690
+16:19:21 | Updated order #20272 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20272
+16:19:21 | Order #20271 | tracking_number: 1Z8V886X0369154261 | scheduled_delivery_date: 2019-08-30
+16:19:21 | Update tracking data | Order #20271 | dropshipper_tracking_numbers = 1Z8V886X0369154261
+16:19:22 | Updated order #20271 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20271
+16:19:22 | Updated orders count: 5
+17:10:08 | Connecting to pulmoneshipments@gmail.com ...
+17:10:14 | Updated orders count: 0
+18:07:48 | Connecting to pulmoneshipments@gmail.com ...
+18:07:56 | Updated orders count: 0
+19:02:07 | Connecting to pulmoneshipments@gmail.com ...
+19:02:18 | Order #20276 | tracking_number: 1Z8V886X0369332890 | scheduled_delivery_date: 2019-08-30
+19:02:18 | Update tracking data | Order #20276 | dropshipper_tracking_numbers = 1Z8V886X0369332890
+19:02:21 | Updated order #20276 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20276
+19:02:21 | Order #20279 | tracking_number: 1Z8V886X0367215823 | scheduled_delivery_date: 2019-09-03
+19:02:21 | Update tracking data | Order #20279 | dropshipper_tracking_numbers = 1Z8V886X0367215823
+19:02:22 | Updated order #20279 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20279
+19:02:22 | Order #20274 | tracking_number: 1Z8V886X0367553842 | scheduled_delivery_date: 2019-09-03
+19:02:22 | Update tracking data | Order #20274 | dropshipper_tracking_numbers = 1Z8V886X0367553842
+19:02:23 | Updated order #20274 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20274
+19:02:23 | Order #20280 | tracking_number: 1Z8V886X0367506241 | scheduled_delivery_date: 2019-09-03
+19:02:23 | Update tracking data | Order #20280 | dropshipper_tracking_numbers = 1Z8V886X0367506241
+19:02:24 | Updated order #20280 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20280
+19:02:24 | Order #20282 | tracking_number: 1Z8V886X0368431070 | scheduled_delivery_date: 2019-09-04
+19:02:24 | Update tracking data | Order #20282 | dropshipper_tracking_numbers = 1Z8V886X0368431070
+19:02:26 | Updated order #20282 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20282
+19:02:26 | Updated orders count: 5
+19:30:22 | Message to dropshipper has been sent. | Order #21179
+20:04:53 | Connecting to pulmoneshipments@gmail.com ...
+20:05:07 | Order #20274 | tracking_number: 1Z8V886X0367806453 | scheduled_delivery_date: 2019-09-03
+20:05:07 | Update tracking data | Order #20274 | dropshipper_tracking_numbers = 1Z8V886X0367553842, 1Z8V886X0367806453
+20:05:07 | Order #20279 | tracking_number: 1Z8V886X0369909231 | scheduled_delivery_date: 2019-09-03
+20:05:07 | Update tracking data | Order #20279 | dropshipper_tracking_numbers = 1Z8V886X0367215823, 1Z8V886X0369909231
+20:05:07 | Order #20275 | tracking_number: 1Z8V886X0369942776 | scheduled_delivery_date: 2019-08-30
+20:05:07 | Order #20275 | tracking_number: 1Z8V886X0368358187 | scheduled_delivery_date: 2019-08-30
+20:05:07 | Update tracking data | Order #20275 | dropshipper_tracking_numbers = 1Z8V886X0369942776, 1Z8V886X0368358187
+20:05:09 | Updated order #20275 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20275
+20:05:09 | Order #20280 | tracking_number: 1Z8V886X0368262851 | scheduled_delivery_date: 2019-09-03
+20:05:09 | Update tracking data | Order #20280 | dropshipper_tracking_numbers = 1Z8V886X0367506241, 1Z8V886X0368262851
+20:05:09 | Order #20277 | tracking_number: 1Z8V886X0368195068 | scheduled_delivery_date: 2019-08-30
+20:05:09 | Update tracking data | Order #20277 | dropshipper_tracking_numbers = 1Z8V886X0368195068
+20:05:11 | Updated order #20277 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=20277
+20:05:11 | Order #20276 | tracking_number: 1Z8V886X0368441881 | scheduled_delivery_date: 2019-08-30
+20:05:11 | Update tracking data | Order #20276 | dropshipper_tracking_numbers = 1Z8V886X0369332890, 1Z8V886X0368441881
+20:05:11 | Order #20282 | tracking_number: 1Z8V886X0368514481 | scheduled_delivery_date: 2019-09-04
+20:05:11 | Update tracking data | Order #20282 | dropshipper_tracking_numbers = 1Z8V886X0368431070, 1Z8V886X0368514481
+20:05:11 | Updated orders count: 7
+21:03:04 | Connecting to pulmoneshipments@gmail.com ...
+21:03:14 | Updated orders count: 0
+22:02:53 | Connecting to pulmoneshipments@gmail.com ...
+22:03:02 | Updated orders count: 0
+22:56:21 | Message to dropshipper has been sent. | Order #21180
+23:06:06 | Connecting to pulmoneshipments@gmail.com ...
+23:06:14 | Updated orders count: 0

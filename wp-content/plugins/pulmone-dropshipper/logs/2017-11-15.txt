@@ -1,0 +1,91 @@
+00:52:46 | Connecting to pulmoneshipments@gmail.com ...
+00:52:48 | Updated orders count: 0
+01:52:49 | Connecting to pulmoneshipments@gmail.com ...
+01:52:52 | Updated orders count: 0
+02:52:49 | Connecting to pulmoneshipments@gmail.com ...
+02:52:51 | Updated orders count: 0
+03:52:37 | Connecting to pulmoneshipments@gmail.com ...
+03:52:40 | Updated orders count: 0
+04:56:57 | Connecting to pulmoneshipments@gmail.com ...
+04:57:00 | Updated orders count: 0
+06:00:03 | Connecting to pulmoneshipments@gmail.com ...
+06:00:07 | Updated orders count: 0
+06:55:39 | Connecting to pulmoneshipments@gmail.com ...
+06:55:43 | Updated orders count: 0
+07:57:01 | Connecting to pulmoneshipments@gmail.com ...
+07:57:04 | Updated orders count: 0
+08:58:20 | Connecting to pulmoneshipments@gmail.com ...
+08:58:22 | Updated orders count: 0
+09:56:24 | Connecting to pulmoneshipments@gmail.com ...
+09:56:27 | Updated orders count: 0
+10:57:22 | Connecting to pulmoneshipments@gmail.com ...
+10:57:24 | Updated orders count: 0
+11:52:07 | Connecting to pulmoneshipments@gmail.com ...
+11:52:09 | Updated orders count: 0
+12:52:06 | Connecting to pulmoneshipments@gmail.com ...
+12:52:09 | Updated orders count: 0
+14:00:03 | Connecting to pulmoneshipments@gmail.com ...
+14:00:06 | Updated orders count: 0
+14:26:30 | Message to dropshipper has been sent. | Order #18430
+15:00:03 | Connecting to pulmoneshipments@gmail.com ...
+15:00:06 | Updated orders count: 0
+15:51:51 | Connecting to pulmoneshipments@gmail.com ...
+15:51:54 | Updated orders count: 0
+15:57:05 | Message to dropshipper has been sent. | Order #18432
+16:52:28 | Connecting to pulmoneshipments@gmail.com ...
+16:52:31 | Updated orders count: 0
+17:18:40 | Message to dropshipper has been sent. | Order #18435
+18:00:04 | Connecting to pulmoneshipments@gmail.com ...
+18:00:07 | Updated orders count: 0
+18:54:59 | Connecting to pulmoneshipments@gmail.com ...
+18:55:01 | Updated orders count: 0
+19:54:58 | Connecting to pulmoneshipments@gmail.com ...
+19:55:01 | Updated orders count: 0
+21:00:02 | Connecting to pulmoneshipments@gmail.com ...
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350715949 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351648476 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351708339 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349780069 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351378580 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351027860 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350784277 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351029153 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349920238 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351213891 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350190480 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351189810 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351351849 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350182015 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349164538 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349739006 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349620571 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349679303 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350214525 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350694285 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349023967 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351539209 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349559102 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350922420 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350818114 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351036378 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349962381 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349305911 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351124148 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350418225 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351089259 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351456432 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351640045 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0349857996 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350309352 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350062092 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350296161 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351129796 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0350129056 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Order #18352 | tracking_number: 1Z8V886X0351990328 | scheduled_delivery_date: 2017-11-16
+21:00:20 | Update tracking data | Order #18352 | dropshipper_tracking_numbers = 1Z8V886X0350715949, 1Z8V886X0351648476, 1Z8V886X0351708339, 1Z8V886X0349780069, 1Z8V886X0351378580, 1Z8V886X0351027860, 1Z8V886X0350784277, 1Z8V886X0351029153, 1Z8V886X0349920238, 1Z8V886X0351213891, 1Z8V886X0350190480, 1Z8V886X0351189810, 1Z8V886X0351351849, 1Z8V886X0350182015, 1Z8V886X0349164538, 1Z8V886X0349739006, 1Z8V886X0349620571, 1Z8V886X0349679303, 1Z8V886X0350214525, 1Z8V886X0350694285, 1Z8V886X0349023967, 1Z8V886X0351539209, 1Z8V886X0349559102, 1Z8V886X0350922420, 1Z8V886X0350818114, 1Z8V886X0351036378, 1Z8V886X0349962381, 1Z8V886X0349305911, 1Z8V886X0351124148, 1Z8V886X0350418225, 1Z8V886X0351089259, 1Z8V886X0351456432, 1Z8V886X0351640045, 1Z8V886X0349857996, 1Z8V886X0350309352, 1Z8V886X0350062092, 1Z8V886X0350296161, 1Z8V886X0351129796, 1Z8V886X0350129056, 1Z8V886X0351990328
+21:00:23 | Updated order #18352 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=18352
+21:00:23 | Updated orders count: 1
+21:55:03 | Connecting to pulmoneshipments@gmail.com ...
+21:55:13 | Updated orders count: 0
+22:55:02 | Connecting to pulmoneshipments@gmail.com ...
+22:55:11 | Updated orders count: 0

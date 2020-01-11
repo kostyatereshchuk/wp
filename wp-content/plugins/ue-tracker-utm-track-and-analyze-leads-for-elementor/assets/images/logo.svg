@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 255.906 255.906">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #112b3e;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 4px;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        font-size: 54px;
+        opacity: 0.8;
+        fill: #f84139;
+        text-anchor: middle;
+        font-family: "Myriad Pro";
+        font-weight: 700;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="129.953" y1="196.953" x2="129.953" y2="49.953" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f84139"/>
+      <stop offset="1" stop-color="#f84139" stop-opacity="0.502"/>
+    </linearGradient>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <rect class="cls-1" x="-29.047" y="-41.047" width="329" height="341"/>
+    <ellipse class="cls-2" cx="129.953" cy="123.453" rx="78" ry="73.5"/>
+    <text id="UE" class="cls-3" transform="translate(129.371 145.487) scale(1.258 1.256)">UE</text>
+  </g>
+</svg>

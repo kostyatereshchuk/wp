@@ -1,0 +1,37 @@
+/*
+Theme Name: Israel IT Bootstrap
+Theme URI: https://www.israelitcenter.com/
+Author: Kostya Tereshchuk
+Author URI: https://wordpress.org/support/users/kostyatereshchuk/
+Description: Israel IT starter theme based on Bootstrap 4.
+Version: 1.0
+Text Domain: israelit
+*/
+
+body { background: #fff; }
+
+#page.site { }
+
+header#masthead { background: #eee; }
+
+header#masthead .navbar { }
+
+header#masthead .navbar-brand { }
+header#masthead .navbar-brand .site-logo { }
+header#masthead .navbar-brand .site-logo img { width: auto; max-height: 90px; }
+
+header#masthead .navbar-toggler { }
+header#masthead .navbar-toggler-icon { }
+header#masthead .navbar-toggler-icon i { }
+
+header#masthead .navbar #main-nav { }
+header#masthead .navbar #main-nav > ul { }
+header#masthead .navbar #main-nav > ul > li { margin-left: 30px; }
+header#masthead .navbar #main-nav > ul > li > a { }
+
+#content.site-content { padding: 30px 0; }
+
+#primary.content-area { }
+#primary.content-area #main { }
+
+#secondary.widget-area { }

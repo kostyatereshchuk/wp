@@ -1,0 +1,115 @@
+00:45:02 | Connecting to pulmoneshipments@gmail.com ...
+00:45:05 | Updated orders count: 0
+01:45:03 | Connecting to pulmoneshipments@gmail.com ...
+01:45:04 | Updated orders count: 0
+02:42:03 | Connecting to pulmoneshipments@gmail.com ...
+02:42:04 | Updated orders count: 0
+03:43:38 | Connecting to pulmoneshipments@gmail.com ...
+03:43:41 | Updated orders count: 0
+04:42:45 | Connecting to pulmoneshipments@gmail.com ...
+04:42:47 | Updated orders count: 0
+05:45:02 | Connecting to pulmoneshipments@gmail.com ...
+05:45:04 | Updated orders count: 0
+06:43:36 | Connecting to pulmoneshipments@gmail.com ...
+06:43:38 | Updated orders count: 0
+07:42:48 | Connecting to pulmoneshipments@gmail.com ...
+07:42:51 | Updated orders count: 0
+08:42:08 | Connecting to pulmoneshipments@gmail.com ...
+08:42:11 | Updated orders count: 0
+09:45:03 | Connecting to pulmoneshipments@gmail.com ...
+09:45:05 | Updated orders count: 0
+10:42:58 | Connecting to pulmoneshipments@gmail.com ...
+10:43:00 | Updated orders count: 0
+10:51:51 | Connecting to pulmoneshipments@gmail.com ...
+10:51:53 | Updated orders count: 0
+10:52:59 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:46:36 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:46:45 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:48:20 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:48:29 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:49:15 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:49:23 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:52:02 | Connecting to pulmoneshipments@gmail.com ...
+11:52:04 | Updated orders count: 0
+11:52:43 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:52:52 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:53:45 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+11:53:54 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+12:45:16 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+12:45:42 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+12:53:02 | Connecting to pulmoneshipments@gmail.com ...
+12:53:04 | Updated orders count: 0
+12:58:03 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+12:59:08 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+12:59:23 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:01:32 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:03:39 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:03:57 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:04:58 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:05:14 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:07:08 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:07:45 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:08:51 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:09:04 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:09:40 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:10:08 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:11:07 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:11:25 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:12:14 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:12:38 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:18:11 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:18:26 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:19:45 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:19:56 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:23:04 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:23:39 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:24:41 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:25:08 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:26:08 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:26:18 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:26:42 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:27:34 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:27:42 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:28:33 | Update tracking data | Order #18016 | dropshipper_tracking_numbers = 
+13:57:39 | Connecting to pulmoneshipments@gmail.com ...
+13:57:42 | Updated orders count: 0
+14:53:22 | Connecting to pulmoneshipments@gmail.com ...
+14:53:25 | Updated orders count: 0
+15:52:16 | Connecting to pulmoneshipments@gmail.com ...
+15:52:18 | Updated orders count: 0
+16:57:10 | Connecting to pulmoneshipments@gmail.com ...
+16:57:12 | Updated orders count: 0
+17:52:42 | Connecting to pulmoneshipments@gmail.com ...
+17:52:44 | Updated orders count: 0
+18:56:45 | Connecting to pulmoneshipments@gmail.com ...
+18:56:48 | Updated orders count: 0
+19:56:28 | Connecting to pulmoneshipments@gmail.com ...
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350262358 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350442458 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349332409 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350099197 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349225632 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350592500 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350129163 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0351133576 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0351251117 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0351319689 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0351757536 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349327522 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350447211 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0351265675 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350779621 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0350371589 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349205261 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349223296 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349997148 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Order #18005 | tracking_number: 1Z8V886X0349841243 | scheduled_delivery_date: 2017-07-06
+19:56:40 | Update tracking data | Order #18005 | dropshipper_tracking_numbers = 1Z8V886X0350262358, 1Z8V886X0350442458, 1Z8V886X0349332409, 1Z8V886X0350099197, 1Z8V886X0349225632, 1Z8V886X0350592500, 1Z8V886X0350129163, 1Z8V886X0351133576, 1Z8V886X0351251117, 1Z8V886X0351319689, 1Z8V886X0351757536, 1Z8V886X0349327522, 1Z8V886X0350447211, 1Z8V886X0351265675, 1Z8V886X0350779621, 1Z8V886X0350371589, 1Z8V886X0349205261, 1Z8V886X0349223296, 1Z8V886X0349997148, 1Z8V886X0349841243
+19:56:42 | Updated order #18005 status to "Completed" | https://www.pulm-one.com/wp-admin/admin-ajax.php?action=set_order_completed&order_id=18005
+19:56:42 | Updated orders count: 1
+20:52:23 | Connecting to pulmoneshipments@gmail.com ...
+20:52:29 | Updated orders count: 0
+21:53:16 | Connecting to pulmoneshipments@gmail.com ...
+21:53:23 | Updated orders count: 0
+22:55:32 | Connecting to pulmoneshipments@gmail.com ...
+22:55:39 | Updated orders count: 0
